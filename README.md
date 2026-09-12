@@ -3,7 +3,7 @@
 ### Real-Time Password Strength & Entropy Analyzer
 
 To access the tool click the below link: file:///C:/Users/mithu/Downloads/password-strength-analyzer%20(1).html
-*(replace with your actual GitHub Pages URL once deployed)*
+
 
 A single-file, client-side tool that scores password strength using Shannon
 entropy rather than arbitrary rule-of-thumb checks, wrapped in a minimal,
